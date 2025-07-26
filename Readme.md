@@ -1,10 +1,10 @@
-Of course. Here is the code for the final, comprehensive `README.md` file, ready for your project submission.
 
-````markdown
 # 📈 Social Media Trend Sentiment Analyzer
 
 **Hackathon:** Data Hackfest 2025  
-**Project Link:** [Devpost Submission Link](https://devpost.com/...) (*Remember to add your link here*)
+**Project Link:** [GitHub Repository](https://github.com/yunus25jmi1/Sentiment-Analysis-of-Social-Media-Trends)  
+**Devpost Link:** [Devpost Submission](https://devpost.com/software/social-media-trend-sentiment-analyzer)  
+**Deployed Link:** [Live Demo](https://sentiment-analysis-of-social-media-trends.onrender.com)
 
 ---
 
@@ -59,8 +59,8 @@ Follow these steps to get the application running on your local machine.
 ### 2. Clone the Repository
 
 ```bash
-git clone [https://github.com/your-username/sentiment_analysis_project.git](https://github.com/your-username/sentiment_analysis_project.git)
-cd sentiment_analysis_project
+git clone https://github.com/yunus25jmi1/Sentiment-Analysis-of-Social-Media-Trends.git
+cd Sentiment-Analysis-of-Social-Media-Trends
 ````
 
 ### 3\. Create a Virtual Environment (Recommended)
