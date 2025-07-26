@@ -1,0 +1,8 @@
+streamlit
+pandas
+altair
+numpy
+vaderSentiment
+wordcloud
+seaborn
+nltk
